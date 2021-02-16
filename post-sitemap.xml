@@ -9,6 +9,22 @@
 
 
     <url>
+        <loc>https://kujiranodanna.github.io/2021/02/15/config_irkit/</loc>
+        <lastmod>2021-02-16T05:13:13.421Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kujiranodanna.github.io/2021/02/15/about_me/</loc>
+        <lastmod>2021-02-16T05:09:50.020Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://kujiranodanna.github.io/2021/02/09/chobit_prog/pepoiaq2led/</loc>
         <lastmod>2021-02-13T07:27:25.796Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -27,14 +43,6 @@
     <url>
         <loc>https://kujiranodanna.github.io/2021/02/06/chobit_prog/pepotocsctl/</loc>
         <lastmod>2021-02-11T07:28:36.614Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kujiranodanna.github.io/2021/02/11/about_me/</loc>
-        <lastmod>2021-02-11T07:25:40.180Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
