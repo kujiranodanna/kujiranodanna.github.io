@@ -9,6 +9,14 @@
 
 
     <url>
+        <loc>https://kujiranodanna.github.io/2021/01/04/install/</loc>
+        <lastmod>2021-02-28T03:30:31.348Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://kujiranodanna.github.io/2021/01/03/hardware/</loc>
         <lastmod>2021-02-28T03:14:56.289Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -42,14 +50,6 @@
 
     <url>
         <loc>https://kujiranodanna.github.io/2021/01/26/doppler_sensor/</loc>
-        <lastmod>2021-02-28T03:14:56.288Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kujiranodanna.github.io/2021/01/04/install/</loc>
         <lastmod>2021-02-28T03:14:56.288Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
