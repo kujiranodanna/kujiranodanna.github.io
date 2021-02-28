@@ -9,32 +9,24 @@
 
 
     <url>
-        <loc>https://kujiranodanna.github.io/2021/02/25/about_me/</loc>
-        <lastmod>2021-02-26T07:00:26.366Z</lastmod>
+        <loc>https://kujiranodanna.github.io/2021/01/03/hardware/</loc>
+        <lastmod>2021-02-28T03:14:56.289Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://kujiranodanna.github.io/2021/02/25/chobit_prog/epicon/</loc>
-        <lastmod>2021-02-26T06:58:57.881Z</lastmod>
+        <loc>https://kujiranodanna.github.io/2021/01/05/config/</loc>
+        <lastmod>2021-02-28T03:14:56.288Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://kujiranodanna.github.io/2021/02/15/config_irkit/</loc>
-        <lastmod>2021-02-16T05:13:13.421Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kujiranodanna.github.io/2021/02/09/chobit_prog/pepoiaq2led/</loc>
-        <lastmod>2021-02-13T07:27:25.796Z</lastmod>
+        <loc>https://kujiranodanna.github.io/2021/01/06/config_gmail/</loc>
+        <lastmod>2021-02-28T03:14:56.288Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -42,15 +34,15 @@
 
     <url>
         <loc>https://kujiranodanna.github.io/2021/02/07/config_twelite/</loc>
-        <lastmod>2021-02-12T08:47:22.147Z</lastmod>
+        <lastmod>2021-02-28T03:14:56.288Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://kujiranodanna.github.io/2021/02/06/chobit_prog/pepotocsctl/</loc>
-        <lastmod>2021-02-11T07:28:36.614Z</lastmod>
+        <loc>https://kujiranodanna.github.io/2021/01/26/doppler_sensor/</loc>
+        <lastmod>2021-02-28T03:14:56.288Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -58,7 +50,103 @@
 
     <url>
         <loc>https://kujiranodanna.github.io/2021/01/04/install/</loc>
-        <lastmod>2021-02-06T03:24:26.397Z</lastmod>
+        <lastmod>2021-02-28T03:14:56.288Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kujiranodanna.github.io/2021/01/21/config_input_event/</loc>
+        <lastmod>2021-02-28T03:14:56.287Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kujiranodanna.github.io/2021/02/25/about_me/</loc>
+        <lastmod>2021-02-28T03:14:56.286Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kujiranodanna.github.io/2021/01/10/bme680/</loc>
+        <lastmod>2021-02-28T03:14:56.286Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kujiranodanna.github.io/2021/01/05/config_input/</loc>
+        <lastmod>2021-02-28T03:14:56.286Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kujiranodanna.github.io/2021/01/05/config_output/</loc>
+        <lastmod>2021-02-28T03:14:56.286Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kujiranodanna.github.io/2021/01/08/config_save/</loc>
+        <lastmod>2021-02-28T03:14:56.286Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kujiranodanna.github.io/2021/01/29/advanced_doppler_sensor/</loc>
+        <lastmod>2021-02-28T03:14:56.285Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kujiranodanna.github.io/2021/01/07/auto_process/</loc>
+        <lastmod>2021-02-28T03:14:56.285Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kujiranodanna.github.io/2021/02/15/config_irkit/</loc>
+        <lastmod>2021-02-28T03:14:56.285Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kujiranodanna.github.io/2021/02/09/chobit_prog/pepoiaq2led/</loc>
+        <lastmod>2021-02-28T03:14:56.285Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kujiranodanna.github.io/2021/02/06/chobit_prog/pepotocsctl/</loc>
+        <lastmod>2021-02-28T03:14:56.285Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kujiranodanna.github.io/2021/02/25/chobit_prog/epicon/</loc>
+        <lastmod>2021-02-28T03:12:07.932Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -75,94 +163,6 @@
     <url>
         <loc>https://kujiranodanna.github.io/2021/01/30/chobit_prog/pepoalexdo/</loc>
         <lastmod>2021-02-04T09:04:56.504Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kujiranodanna.github.io/2021/01/29/advanced_doppler_sensor/</loc>
-        <lastmod>2021-02-02T08:52:12.936Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kujiranodanna.github.io/2021/01/26/doppler_sensor/</loc>
-        <lastmod>2021-02-02T08:49:45.290Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kujiranodanna.github.io/2021/01/07/auto_process/</loc>
-        <lastmod>2021-02-02T08:41:14.707Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kujiranodanna.github.io/2021/01/10/bme680/</loc>
-        <lastmod>2021-02-02T08:37:09.250Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kujiranodanna.github.io/2021/01/06/config_gmail/</loc>
-        <lastmod>2021-02-02T08:29:51.392Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kujiranodanna.github.io/2021/01/21/config_input_event/</loc>
-        <lastmod>2021-02-02T08:24:56.745Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kujiranodanna.github.io/2021/01/05/config_input/</loc>
-        <lastmod>2021-02-02T08:21:20.171Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kujiranodanna.github.io/2021/01/05/config_output/</loc>
-        <lastmod>2021-02-02T08:21:10.640Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kujiranodanna.github.io/2021/01/08/config_save/</loc>
-        <lastmod>2021-02-02T08:16:39.834Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kujiranodanna.github.io/2021/01/05/config/</loc>
-        <lastmod>2021-02-02T08:14:11.737Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kujiranodanna.github.io/2021/01/03/hardware/</loc>
-        <lastmod>2021-02-02T08:09:51.701Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
