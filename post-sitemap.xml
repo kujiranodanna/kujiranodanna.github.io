@@ -9,6 +9,22 @@
 
 
     <url>
+        <loc>https://kujiranodanna.github.io/2021/04/13/about_me/</loc>
+        <lastmod>2021-04-13T06:53:50.998Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kujiranodanna.github.io/2021/04/13/cp2112/</loc>
+        <lastmod>2021-04-13T06:51:13.011Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://kujiranodanna.github.io/2021/01/04/install/</loc>
         <lastmod>2021-02-28T03:30:31.348Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -59,14 +75,6 @@
     <url>
         <loc>https://kujiranodanna.github.io/2021/01/21/config_input_event/</loc>
         <lastmod>2021-02-28T03:14:56.287Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kujiranodanna.github.io/2021/02/25/about_me/</loc>
-        <lastmod>2021-02-28T03:14:56.286Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
