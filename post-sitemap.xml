@@ -9,6 +9,22 @@
 
 
     <url>
+        <loc>https://kujiranodanna.github.io/2021/02/04/chobit_prog/pepogpioctld/</loc>
+        <lastmod>2025-08-15T08:30:25.415Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kujiranodanna.github.io/2021/02/25/chobit_prog/epicon/</loc>
+        <lastmod>2025-08-15T08:04:20.614Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://kujiranodanna.github.io/2021/06/20/iot-house_old_pc/</loc>
         <lastmod>2021-06-20T07:53:05.199Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -155,22 +171,6 @@
     <url>
         <loc>https://kujiranodanna.github.io/2021/02/06/chobit_prog/pepotocsctl/</loc>
         <lastmod>2021-02-28T03:14:56.285Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kujiranodanna.github.io/2021/02/25/chobit_prog/epicon/</loc>
-        <lastmod>2021-02-28T03:12:07.932Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kujiranodanna.github.io/2021/02/04/chobit_prog/pepogpioctld/</loc>
-        <lastmod>2021-02-06T03:23:55.578Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
